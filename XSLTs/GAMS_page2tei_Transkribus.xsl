@@ -4,6 +4,7 @@
     Project: Projektname
     Author: Bernhard Bauer, Sina Krottmaier
     Company: DDH (Department of Digital Humanities, University of Graz) 
+    Last Update: 06.11.2025
  -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
